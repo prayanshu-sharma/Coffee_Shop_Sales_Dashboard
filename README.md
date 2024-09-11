@@ -7,9 +7,10 @@ Level-Beginner
 MS-Excel Dashboard
 
 Skills-
-data cleaning,data transformation,data analysis
-filtering,sorting and using excel function
+data cleaning,  data transformation,  data analysis
+filtering,  sorting and using excel function
 pivot tables and chart
+
 data visulisation and dashboard creation
 
 # Objective
